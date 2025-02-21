@@ -14,7 +14,7 @@ You will not find the full animation in the blender file since I rendered this c
 [Immanuel Mboowa](https://imboowa.github.io/ImmanuelMboowa/)
 
 # LinkedIn
-[Immnauel Mboowa](https://www.linkedin.com/in/immanuel-mboowa-773b65343/)
+[Immanuel Mboowa](https://www.linkedin.com/in/immanuel-mboowa-773b65343/)
 
 
 
