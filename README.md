@@ -12,19 +12,19 @@ I am a passionate developer with expertise in **Python** and **C++** programming
 # Note
 
 You will not find the full animation in the blender file since I rendered this couch bit by bit for faster production.
-## Live Website
+# Live Website
 
 You can view my live website hosted on GitHub Pages here:
 [https://imboowa.github.io/](https://imboowa.github.io/ImmanuelMboowa)
 
-## Contact
+# Contact
 You can reach out to me via the following links:
 
 - **Email**: [emboowae@gmail.com](mailto:emboowae@gmail.com)
 - **GitHub**: [https://github.com/imboowa](https://github.com/imboowa)
 - **LinkedIn**: [https://www.linkedin.com/in/immanuel-mboowa-773b65343/](https://www.linkedin.com/in/immanuel-mboowa-773b65343/)
 
-## License
+# License
 © 2025 Immanuel Mboowa. All Rights Reserved
 
 
