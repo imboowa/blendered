@@ -8,7 +8,7 @@ This is my couch that I am attached to because I made it following Blender Guru'
 I am a passionate developer with expertise in **Python** and **C++** programming. I am particularly interested in **Artificial Intelligence**, **Computational Biology**, **3D Animation**, and **Web Development**. My goal is to create innovative solutions that contribute to these fields.
 # Technologies Used
 
-- **Tools**: Blender, iMovie, Rhythm Pads
+- **Tools**: Blender, iMovie, Remixlive
 # Note
 
 You will not find the full animation in the blender file since I rendered this couch bit by bit for faster production.
